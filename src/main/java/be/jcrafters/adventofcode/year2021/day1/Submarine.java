@@ -2,7 +2,6 @@ package be.jcrafters.adventofcode.year2021.day1;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class Submarine {
 
