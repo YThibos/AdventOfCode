@@ -1,4 +1,4 @@
-package be.jcrafters.adventofcode.year2021.day2;
+package be.jcrafters.adventofcode.year2021;
 
 import java.io.IOException;
 import java.nio.file.Files;

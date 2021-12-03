@@ -2,6 +2,8 @@ package be.jcrafters.adventofcode.year2021.day2;
 
 import java.util.List;
 
+import be.jcrafters.adventofcode.year2021.FileReader;
+
 public class Day2 {
 
 
